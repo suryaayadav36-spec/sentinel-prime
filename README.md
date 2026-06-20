@@ -1,6 +1,14 @@
 # Sentinel Prime - AI-Powered Security Operations Dashboard
 
-A modern, real-time security operations center (SOC) dashboard built with React and Vite, featuring advanced threat detection, behavioral anomaly analysis, and ML-powered security intelligence.
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-5.4.21-646CFF?logo=vite)](https://vitejs.dev)
+[![Node](https://img.shields.io/badge/Node-18.x%20LTS-339933?logo=node.js)](https://nodejs.org)
+[![License](https://img.shields.io/badge/License-Educational-blue)](#license)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](#)
+
+> A modern, real-time security operations center (SOC) dashboard built with React and Vite, featuring advanced threat detection, behavioral anomaly analysis, and ML-powered security intelligence.
+
+**🎯 Live Demo**: http://localhost:5173 | **📦 Repository**: [GitHub](https://github.com/suryaayadav36-spec/sentinel-prime)
 
 ## ✨ Features
 
